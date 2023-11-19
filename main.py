@@ -8,3 +8,4 @@ from validators import valid_return_type, validate_data_type
 symbol_table = SymbolTable()
 error_stack = ErrorStack()
 scope_stack = ScopeStack()
+
