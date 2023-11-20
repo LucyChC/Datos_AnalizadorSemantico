@@ -5,7 +5,8 @@ from dataclasses import dataclass
 class Symbol:
 
     """
-    Se definen los simbolos como atributos que se utilizaran en la tabla de simbolos
+    Se definen los simbolos como atributos que se utilizaran
+    en la tabla de simbolos
     """
     key: str
     declaration_line_number: int
